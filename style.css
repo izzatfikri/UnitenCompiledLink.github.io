@@ -1,0 +1,28 @@
+h1 {
+    background-color: rgb(204, 211, 202);
+    border-style: dotted;
+    border-color: aqua;
+    margin: 50px 50px;
+    padding: 50px;
+    text-align: center;
+}
+
+body{
+    background-color: rgb(56, 122, 223);
+    background-image: url('90\ Simple\ Backgrounds\ [Edit\ and\ Download].jpeg');
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-blend-mode: soft-light;
+    background-size: cover;
+}
+
+.r{
+    color:black;
+    
+}
+.b{color: blue;}
+.s2{
+    font-size: 30px;
+    text-align: center;
+}
